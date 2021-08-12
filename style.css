@@ -193,14 +193,12 @@ Card
 Active status
 -------------*/
 
-.plan-change__btn:hover,
-.plan-change__btn:focus {
+.plan-change__btn:hover {
     text-decoration: none;
     opacity: .75;
 }
 
-.cta--proceed:hover,
-.cta--proceed:focus {
+.cta--proceed:hover {
     opacity: .75;
 }
 
