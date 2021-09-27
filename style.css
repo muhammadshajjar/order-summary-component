@@ -54,6 +54,7 @@ body {
     padding: 71px 0 40px 0;
     background-image: url("./images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
+        background-size: contain;
 }
 
 
